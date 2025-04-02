@@ -38,7 +38,7 @@ You guessed the number in 4 tries!
 ## 💾 Installation
 1. **Clone this legendary repo**:
    ```sh
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/HAAZIQ-ALI/NoobDestroyer
    ```
 2. **Compile and run it**:
    ```sh
